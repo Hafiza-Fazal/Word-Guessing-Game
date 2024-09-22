@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+        background-image: url("./back.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+      
+       
+}
+
+#word {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+#message {
+    margin-top: 20px;
+}
+.a{
+    margin-top: 200px !important;
+    width: 500px !important;
+    background-color: rgba(230, 221, 221, 0.2) !important;
+   /* height: 300px !important;*/
+ 
+    border: 3px solid black !important;
+
+}
+input{
+    background-color: rgb(79, 92, 89);
+}
